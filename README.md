@@ -59,7 +59,7 @@ link password：2l34
 
 #### AHAR-II
 ```
-AHAR-I download link：https://pan.baidu.com/s/1r1EoYE4SxeX-yP5mz0Co-A 
+AHAR-II download link：https://pan.baidu.com/s/1r1EoYE4SxeX-yP5mz0Co-A 
 link password：zju1
 ```
 ​	In the second version of the aquatic human activity recognition (AHAR-II) dataset, we added an aquatic human activity, namely frolicking, based on the AHAR-I. We then investigated the effects of covariances in different background environments (deep water, shallow water), different users (user 1, user 2) and different aspect-angles (radial and non-radial) on the recognition of aquatic human activities, respectively.
